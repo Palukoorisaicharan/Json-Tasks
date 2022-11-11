@@ -1,0 +1,83 @@
+{
+    "basics" : {
+        "name" : "Saicharan",
+        "label" : "Junior analyst",
+        "image" : "",
+        "email" : "palukoorisaicharan@gmail.com",
+        "phone" : 630571481,
+        "summary" : "A fast learning problem solver with proven analytical and proven skills.",
+
+         "location" : {
+            "address" : "1-24, V.R kandriga",
+            "Postal code" : 517588,
+            "city" : "Tirupati",
+            "state" : "Andhra Pradesh",
+            "region" : "India"
+
+         },
+         "work" : [{
+            "name" : "Turningpoint software solutions",
+            "position" : "Junior analyst",
+            "Start date" : "07-01-2020"
+         }
+
+         ],
+         "education" :[{
+            "institution" : "RVS Padhmavathy college of engineering and technology",
+            "area" : "sethilpakkam",
+            "studyType" : "BE",
+            "Department": "mechanical",
+            "StartDate" : "13-06-2015",
+            "EndDate" : "20-06-2019",
+            "Gpa" : 6.7
+        }
+         ],
+         "projects" : [{
+            "miniProject" : "Electricity generation using railway track",
+            "mainProject" : "Automatic river cleaning machine"
+         }
+        ],
+        "skills" : [{
+            "name" : "Auto CADD,Revit CATIA"
+        }
+        ],
+        "languages" : [
+            {
+            "language" : "English",
+            "fluency" : "ability to speak without effort"
+            },    
+
+            {
+            "language" : "Telugu",
+            "fluency" : "Native speaker"
+            },
+            
+            {
+            "language" : "Hindi",
+            "fluency" : "ability to speak without effort"
+            },
+            
+            {
+            "language" : "Tamil",
+            "fluency"  : "ability to speak without effort"
+            }
+        ],
+
+            "Other Activities" : [{
+            "name" : "Cricket,Kabaddi,Badminton"
+        }
+        ],
+        "References" : [
+            {
+            "name" : "Satheesh",
+            "Reference" : "Satheesh is my team leader in Turningpoint software solutions."
+            },
+
+            {
+            "name" : "Kishor",
+            "Reference" : "Kishore was my professor in college helped to complete my BE"
+            }
+    ]
+
+    }
+}
